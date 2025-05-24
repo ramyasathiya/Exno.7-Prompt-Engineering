@@ -10,8 +10,8 @@ To Develop a prompt-based application tailored to their personal needs, fosterin
 Develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 # Output :
 ```
-Register No: 212222090012
-Ex. No. 8 – Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
+
+Ex. No. 7 – Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
 Aim:
 To develop a prompt-based creative writing application using ChatGPT – to demonstrate how LLMs can support and inspire storytelling through intelligent prompts, genre-specific guidance, and adaptive narrative suggestions.
